@@ -13,10 +13,12 @@ Then, send it to your Edison.
 
 ##Directory
 * light_rainbow.go
-* light_rainbow
-
+* sphero.go
 
 ###Light Rainbow
 This program needs a screen, a rotary sensor in port 0, a light sensor in port 1, and a temperature sensor in port 2. 
 Note that the temperature in the room should be between 25 and 35 degrees Fahrenheit.
 The rotary sensor maps to the red value, light to green, temperature to blue.
+
+###Sphero
+This needs an accelerometer and a sphero. Use the accelerometer (move in x and y axis) to move the sphero. 
