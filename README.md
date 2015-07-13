@@ -22,3 +22,6 @@ The rotary sensor maps to the red value, light to green, temperature to blue.
 
 ###Sphero
 This needs an accelerometer and a sphero. Use the accelerometer (move in x and y axis) to move the sphero. 
+
+###Temp Sensor
+This is mainly for the Kill Room. Given a temp sensor (ON PORT 1!!) and a screen, displays the temperature in the room in F and C. The color of the screen changes from shades of blue (60) when it's hella cold to red (80) when it's hella hot.
